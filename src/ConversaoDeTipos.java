@@ -11,12 +11,12 @@ public class ConversaoDeTipos {
 
         int w = (int) x;
 
-        int z = (int) y;
+        int b = (int) y;
 
         String s2 = String.valueOf(v);
 
 
-        System.out.println(s2 + w + z);
+        System.out.println(s2 + w + b);
 
     }
 }
