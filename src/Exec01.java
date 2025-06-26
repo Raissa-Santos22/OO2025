@@ -1,4 +1,4 @@
-public class exec01 {
+public class Exec01 {
     public static void main(String[] arg) {
         String nome = "Maria Eduarda";
         int idade = 16;
