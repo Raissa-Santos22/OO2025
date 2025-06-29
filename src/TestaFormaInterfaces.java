@@ -8,3 +8,5 @@ public class TestaFormaInterfaces {
         System.out.println("Área do quadrado : " + retangulo.calcularArea());
     }
 }
+
+
